@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "145139697421",
+    "project_id": "tbapp-ce035",
+    "storage_bucket": "tbapp-ce035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145139697421:android:dc9193017e4e870be99244",
+        "android_client_info": {
+          "package_name": "com.example.icfapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-QJBNysQItszhsFDBEavUGowFyZ-JBtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145139697421:android:0c1df1d2dd6a3843e99244",
+        "android_client_info": {
+          "package_name": "com.example.tbapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-QJBNysQItszhsFDBEavUGowFyZ-JBtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
